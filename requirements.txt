@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+qdrant-client
+pypdf
+fastapi
+uvicorn
+watchdog
+rank-bm25
+ragas
