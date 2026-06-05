@@ -9,3 +9,4 @@ uvicorn
 watchdog
 rank-bm25
 ragas
+python-docx
